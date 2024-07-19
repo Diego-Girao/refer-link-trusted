@@ -1,9 +1,8 @@
 <div align='center'>
   
-![logo_jornada](https://raw.githubusercontent.com/Diego-Girao/refer-link-trusted/42ac88f7d8ae7e77687f421d7bc23d01c01d4001/public/logo_jornada_dragao.svg)
-
-<img src="https://github.com/user-attachments/assets/e918fbb7-598c-444a-aa3a-6d1e91aa3579" width="150"> 
+![logo_jornada](https://raw.githubusercontent.com/Diego-Girao/refer-link-trusted/42ac88f7d8ae7e77687f421d7bc23d01c01d4001/public/logo_jornada_dragao.svg) <img src="https://github.com/user-attachments/assets/e918fbb7-598c-444a-aa3a-6d1e91aa3579" width="120"> 
 </div>
+
 
 
 # [Refer Link Trusted🌐](https://refer-link-trusted.vercel.app/)
@@ -28,13 +27,15 @@ Criar uma Aplicação Full-Stack com Next.js. Onde será criado um gerador de re
  - [Neon - Serverless Postgres](https://neon.tech/home)
 
 ## Preview
+<div align='center'>
 
-Insert gif or link to demo
+  ## Web Preview 👇
+  https://github.com/user-attachments/assets/83e08d43-1881-4e71-b47c-ac8668f02618
 
-<div>
-  
-  <video src="https://www.loom.com/embed/5278d89554254d9082e96b36ac7b7f77?sid=a49624af-357c-4a9f-9e25-8c9c235e894f" width="400" />
+  ## Mobile Preview 👇
+  https://github.com/user-attachments/assets/bb8e7c11-3da6-4526-b9a8-ab2428cfb64c  
 </div>
+
 
 
 ## Screenshots
